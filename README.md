@@ -42,3 +42,7 @@ This project not only helps users grasp the basics of Python programming but als
 - **Extensibility**: Offers the potential for future growth and feature addition, allowing the calculator to evolve and become more versatile.
 - **Clear Documentation**: Assists in understanding and using the calculator, making it easier for others to contribute and extend the project.
 
+## Documents Included:
+- **Presentation: IDP_PPT.pdf, IP ppt.pdf, Idp ppt.pdf**
+- **Report: Report.pdf, Independent Project Synopsis.pdf**
+- **py File: independent_project.py**
