@@ -11,20 +11,20 @@ The goal of this project is to develop a simple yet functional calculator system
 
 This project not only helps users grasp the basics of Python programming but also offers a practical example of how to build and test a command-line application. It is an excellent stepping stone for those interested in further exploring programming and software development.
 
-
 ## Features
 ### 1. Basic Arithmetic Operations
-   - **Description**: Functions for addition, subtraction, multiplication, and division.
+   - **Description**: Implements core arithmetic operations including addition, subtraction, multiplication, and division. Each function is designed to handle numeric inputs and produce accurate results, allowing users to perform essential calculations with ease.
 ### 2. Error Handling
-   - **Description**: Manages invalid inputs and division by zero with appropriate error messages.
+   - **Description**: Provides robust error handling mechanisms to manage common issues such as invalid inputs (e.g., non-numeric values) and division by zero. The system generates clear, informative error messages to guide users in correcting their inputs and ensuring smooth operation.
 ### 3. User Interface
-   - **Description**: Simple command-line interface for user interaction.
+   - **Description**: Features a simple command-line interface (CLI) that prompts users to select operations and input numbers. The interface is designed to be straightforward and intuitive, making it easy for users to interact with the calculator without needing a graphical user interface.
 ### 4. Modular Design
-   - **Description**: Code structure that supports easy updates and extensions.
+   - **Description**: Utilizes a modular code structure that organizes functionality into separate, manageable components. This design promotes ease of maintenance, allows for better organization of code, and facilitates the addition of new features or modifications without disrupting existing functionality.
 ### 5. Extensibility
-   - **Description**: Foundation for adding advanced features like square root calculations and trigonometric functions.
+   - **Description**: Provides a solid foundation for extending the calculator’s capabilities with additional features. Future enhancements might include advanced mathematical functions such as square root calculations, exponentiation, and trigonometric functions. The design supports easy integration of these features while maintaining the core functionality.
 ### 6. Clear Documentation
-   - **Description**: Comprehensive documentation for code and usage instructions.
+   - **Description**: Includes comprehensive documentation for both the codebase and usage instructions. The documentation covers the functionality of each component, provides examples of how to use the calculator, and offers guidance for developers who wish to contribute or modify the project. This ensures that users and developers can easily understand and work with the code.
+
 
 ## Goals
 - **Implement Core Arithmetic Functions**: Develop functions to accurately perform basic operations (addition, subtraction, multiplication, division).
